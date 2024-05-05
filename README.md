@@ -2,8 +2,11 @@
 
 <h3 align="left">About me:</h3>
 - 😋 I'm always looking for interesting things and projects
+<br>
 - 💥 I'm interested in web development and desktop development
+<br>
 - 🎓 Currently I am studying at Kuban State University
+<br>
 - ✨ I want to become a cool developer
 
 <h3 align="left">Languages:</h3>
@@ -13,4 +16,6 @@
 
 </p>
 
+<br>
+<h3 align="left">Stats:</h3>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaiiiRan&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
