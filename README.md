@@ -19,4 +19,4 @@
 <br>
 <h3 align="left">Stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaiiiRan&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=ZaiiiRan&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
