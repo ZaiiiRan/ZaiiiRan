@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm  ZaiiiRan</h1>
 
 <h3 align="left">About me:</h3>
- 😋 I'm always looking for interesting things and projects
+- 😋 I'm always looking for interesting things and projects
 <br>
 - 💥 I'm interested in web development and desktop development
 <br>
