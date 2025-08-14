@@ -25,8 +25,6 @@
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/) [![C#](https://skillicons.dev/icons?i=cs)](https://www.w3schools.com/cs/index.php) [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 
 
-<br>
-
 ### Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaiiiRan&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
